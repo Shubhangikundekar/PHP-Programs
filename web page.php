@@ -1,5 +1,5 @@
 <?php
-$name="nujhat";
+$name="Shubhangi";
 $class="sybca";
 $rollnumber=123;
 echo "name of student:$name\n","<br>";
